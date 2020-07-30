@@ -1,0 +1,7 @@
+prefix="example"
+email="example@example.com"
+location= "westeurope"
+consul_cluster_mode="DEVELOPMENT"
+consul_datacenter_name="dc1"
+public_key=""
+vm_size="Standard_D2s_v3"

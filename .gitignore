@@ -1,0 +1,27 @@
+.terraform/
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# .tfvars files
+*.tfvars
+.env
+
+#generated files
+consul.json
+consul_without_token.json
+client_vm_policy.hcl
+config.yaml
+*.pem
+consulurl
+mastertoken
+mastertokenoutput
+client.token
+#plan files
+
+*.tfplan
+
+
+.DS_Store
