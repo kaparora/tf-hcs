@@ -1,4 +1,5 @@
-# Terraform code to deploy a HashiCorp Consul Service aka HCS in Azure
+# HashiCorp Consul Service aka HCS in Azure with VM and AKS configuration
+
 4 seperate TF folders
 1. Resource group 
 2. DEVELOPMENT HCS environment with ACL bootstrapping
